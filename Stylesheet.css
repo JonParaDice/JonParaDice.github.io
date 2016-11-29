@@ -1,0 +1,7 @@
+h1 {
+	color:orange;
+	margin-right: 20px;
+	}
+body{ background: green}
+nav li {display: inline-block}
+nav li { border: 3px solid black}
